@@ -178,3 +178,5 @@ Each file is clearly separated and labeled.
 Use freely for personal or commercial projects.
 
 ---
+🙌 Disclaimer
+Use at your own risk. Always review scripts before running.
